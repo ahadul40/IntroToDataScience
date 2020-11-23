@@ -1,0 +1,1 @@
+Open GITHUB account. Select Upload and choose the .ipynb file.
